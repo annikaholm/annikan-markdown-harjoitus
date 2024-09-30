@@ -1,4 +1,4 @@
-## <Annika Holm> web-tehtävä
+## <Annika Holm> Web-tehtävä
 
 
 ### Kursivointi ja lihavointi
@@ -28,7 +28,7 @@ Here's some words about the book _One Hundred Years..._.
 
  [You're **really, really** going to want to see this.](http://www.dailykitten.com)
 
- #### The Latest News from [the BBC](http://www.bbc.com/news)
+ ####The Latest News from [the BBC](http://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -92,9 +92,9 @@ I read this interesting quote the other day:
  * Is possibly mentally unwell
 
 
- ### Paragraphs
+ ###Paragraphs
 
- We pictured the meek mild creatures where  
+We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
